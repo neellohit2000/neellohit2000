@@ -83,11 +83,16 @@ Welcome to my GitHub profile! 🚀 I'm a **Full Stack Developer** and **Machine 
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer Animation" width="300px" />
 </p>
 
-```markdown
-# Contribution Graph
+---
+
+## 📊 Contribution Graph
+
 ![Neellohit's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=neellohit2000&theme=react-dark)
 
-# Dynamic Badge
+---
+
+## 🎖 Dynamic Badge
+
 ![Profile Views](https://komarev.com/ghpvc/?username=neellohit2000&color=brightgreen)
 
 ---
